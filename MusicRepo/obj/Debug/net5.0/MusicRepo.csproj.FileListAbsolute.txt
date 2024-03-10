@@ -1,0 +1,15 @@
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\bin\Debug\net5.0\MusicRepo.deps.json
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\bin\Debug\net5.0\MusicRepo.runtimeconfig.json
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\bin\Debug\net5.0\MusicRepo.runtimeconfig.dev.json
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\bin\Debug\net5.0\MusicRepo.dll
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\bin\Debug\net5.0\MusicRepo.pdb
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.csproj.AssemblyReference.cache
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.AssemblyInfoInputs.cache
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.AssemblyInfo.cs
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.csproj.CoreCompileInputs.cache
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.dll
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\refint\MusicRepo.dll
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.pdb
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\MusicRepo.genruntimeconfig.cache
+C:\Users\Thang LA\Desktop\MucisApplication\MusicRepo\obj\Debug\net5.0\ref\MusicRepo.dll

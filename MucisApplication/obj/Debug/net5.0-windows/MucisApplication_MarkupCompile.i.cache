@@ -1,0 +1,20 @@
+﻿MucisApplication
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Thang LA\Desktop\MucisApplication\MucisApplication\obj\Debug\net5.0-windows\
+MucisApplication
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\Thang LA\Desktop\MucisApplication\MucisApplication\App.xaml
+41563956972
+
+8809559955
+227266974200
+MainWindow.xaml;UserControls\Playlist.xaml;UserControls\PopularSong.xaml;UserControls\SongItem.xaml;
+
+True
+
